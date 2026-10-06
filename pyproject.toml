@@ -1,7 +1,7 @@
 [project]
 name = "ComfyUI-ZipDepth"
 description = "A simple implementation of ZipDepth. monocular depth estimation for ComfyUI."
-version = "0.1"
+version = "0.1.1"
 license = {file = "LICENSE"}
 dependencies = []
 

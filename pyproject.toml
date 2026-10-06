@@ -1,0 +1,15 @@
+[project]
+name = "ComfyUI-ZipDepth"
+description = "A simple implementation of ZipDepth. monocular depth estimation for ComfyUI."
+version = "0.1"
+license = {file = "LICENSE"}
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Hullabalo/ComfyUI-ZipDepth"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "hullabaloo"
+DisplayName = "ComfyUI-ZipDepth"
+Icon = "https://github.com/Hullabalo/ComfyUI-ZipDepth/raw/main/zip.png"

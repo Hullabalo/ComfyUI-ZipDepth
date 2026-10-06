@@ -3,6 +3,8 @@
 A simple implementation of [ZipDepth](https://github.com/fabiotosi92/ZipDepth) monocular depth estimation for ComfyUI.
 Lightweight (6.1M params), fast zero-shot relative depth — runs on GPU or CPU.
 
+![preview](main.png?raw=true "ComfyUI-ZipDepth")
+
 ## Installation
 
 ```bash

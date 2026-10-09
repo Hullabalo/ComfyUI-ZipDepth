@@ -9,7 +9,7 @@ Lightweight (6.1M params), fast zero-shot relative depth — runs on GPU or CPU.
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/<you>/ComfyUI-ZipDepth.git
+git clone https://github.com/Hullabalo/ComfyUI-ZipDepth.git
 ```
 
 Restart ComfyUI. The `zipdepth_base.pth` checkpoint (~27 MB) auto-downloads from the
